@@ -2,7 +2,7 @@
  <manifest> 
   <remote name="ImSurajxD" fetch="https://gitlab.com/ImSurajxD" /> 
   <!-- Trees --> 
-  <project path="device/oneplus/CPH2381" name="nobiraja/android_device_oneplus_CPH2381.git" remote="github" revision="pixel-13" />  
+  <project path="device/oneplus/CPH2381" name="ajaysinghx/android_device_oneplus_CPH2381.git" remote="github" revision="pixel-13" />  
   <project path="hardware/oplus" name="PixelExperience/hardware_oplus.git" remote="github" revision="thirteen" /> 
   <project path="kernel/oneplus/sm6375" name="ajaysinghx/android_kernel_oneplus_sm6375.git" remote="github" revision="lineage-20" /> 
 
